@@ -13,3 +13,8 @@ Implementation of a CNN for text classfication in tensorflow can be found here t
 
 Also, i got help from this repository for this task with pretrained word2vec model 
 https://github.com/cahya-wirawan/cnn-text-classification-tf
+
+
+Pretrained word2vec with 150000 words can bo found here. I do not have enough ram memory to load 1.5 GB complete google's model. 
+https://www.dropbox.com/sh/3ens2m2ex3g9a4l/AAC0ZHDRbEe_maLrD2pPD5cOa?dl=0
+

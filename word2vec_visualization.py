@@ -41,3 +41,6 @@ projector.visualize_embeddings(summary_writer, config)
 # save the model
 saver = tf.train.Saver()
 saver.save(sess, os.path.join('log', "model.ckpt"))
+
+
+#chekiranje za github
